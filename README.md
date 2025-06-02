@@ -29,6 +29,7 @@ I am driven by my curiosity to learn and apply cutting-edge technologies to solv
 
 ### 🤝 Connect with Me
 - **GitHub:** [nay-eem-01](https://github.com/nay-eem-01)
+- **Portfolio:** [portfolio](https://nay-eem-01.github.io/Portfolio/)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-nayeem-ahmed/)
 - **Facebook:** [Facebook](https://www.facebook.com/ahmedmdnayeem05/)
 - **Email:** [ahmedmdnayeem05@gmail.com](mailto:ahmedmdnayeem05@gmail.com)
