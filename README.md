@@ -1,40 +1,25 @@
-# Hi there, I'm Mohammad Nayeem Ahmed 👋
+# Mohammad Nayeem Ahmed
 
-### 🌟 About Me
-I am a **Computer Science and Engineering student** from **Dhaka, Bangladesh**, with a passion for building impactful software solutions. My journey in tech has led me to become proficient in **backend development** and explore the dynamic world of **full-stack development**. 
+Backend engineer building reactive systems with Java and Spring WebFlux — Kafka messaging, Neo4j, and production-grade REST APIs. Based in Dhaka, Bangladesh.
 
-I am driven by my curiosity to learn and apply cutting-edge technologies to solve real-world problems. Currently, I am working on exciting projects involving **Java**, **Spring Boot**, and **React**, alongside diving into **problem-solving on LeetCode** to hone my skills.
+Currently at **Dhrubok Infotech Services Limited**, working on [TaskATask](https://github.com/nay-eem-01) — a reactive task management platform with real-time chat, Kafka-driven notifications, and encrypted messaging.
 
-### 💻 Expertise
-- **Programming Languages:** Java (Core Java, OOP, Exception Handling, Multithreading, Interface), C/C++, Python
-- **Backend Development:** Spring, Spring Boot, JSP, Servlets
-- **Frontend Development:** React, HTML, CSS, JavaScript
-- **Database Management:** MySQL, RDBMS concepts, Hibernate, Spring Data JPA
-- **Version Control:** Git and GitHub
-- **Problem Solving:** Regular practice on LeetCode
-- **Authentication Mechanisms:** JWT, RBAC, OAuth2, and more
+## Stack
 
-### 🚀 Projects
-- **Agricultural Blog Site:** A full-stack application for managing and reading blogs with roles like admin, author, and user. (I am working on this project currently)
-- **E-commerce Application:** Backend with role-based access control and JWT authentication.
-- **Data Conversion Tool:** Featuring algorithms like Hamming Distance, Parity Check, and Bit Stuffing.
-- **Text Encryption/Decryption Tool:** Supporting multiple algorithms with a user-friendly interface.
+| Area | Tools |
+|---|---|
+| Languages | Java, Python, JavaScript, C |
+| Backend | Spring Boot, Spring WebFlux, Spring Security, Spring Data JPA |
+| Data | Neo4j, MySQL, PostgreSQL, Redis |
+| Messaging | Apache Kafka, RabbitMQ |
+| Infra | Docker, AWS (S3, SNS), Git |
 
-### 📚 What I'm Learning
-- Mastering advanced Spring Boot features and backend development techniques.
-- Exploring full-stack development with React and other modern tools.
-- Learing Microservice architectures.
-- Deployment technologies.
-- Delving deeper into GitHub workflows and CI/CD pipelines.
+## Selected Work
 
-### 🤝 Connect with Me
-- **GitHub:** [nay-eem-01](https://github.com/nay-eem-01)
-- **Portfolio:** [portfolio](https://nay-eem-01.github.io/Portfolio/)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-nayeem-ahmed/)
-- **Facebook:** [Facebook](https://www.facebook.com/ahmedmdnayeem05/)
-- **Email:** [ahmedmdnayeem05@gmail.com](mailto:ahmedmdnayeem05@gmail.com)
-- **Phone:** +880 1833-849973
+- **[AgroTrends](https://github.com/nay-eem-01/AgroTrends)** — full-stack blogging platform for farmers and agricultural enthuisiats with AI chat
+- **[E-Commerce Application](https://github.com/nay-eem-01/E-commerce-application-with-springboot)** — Spring Boot backend with JWT auth and payment gateaway
+- **[AI Email Spam Detector](https://github.com/nay-eem-01/Email_Spam_Detection)** — ML classifier, [live demo](https://email-spam-detection-n801.onrender.com/)
 
----
+## Contact
 
-🌱 I’m always open to collaborating on innovative projects or discussing new ideas. Feel free to connect with me!
+[Portfolio](https://nayeem-ahmed-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/md-nayeem-ahmed/) · [ahmedmdnayeem05@gmail.com](mailto:ahmedmdnayeem05@gmail.com)
