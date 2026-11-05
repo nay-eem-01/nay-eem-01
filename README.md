@@ -73,8 +73,6 @@ Built on my own, from the database to the user interface. Each one has a case st
   </tr>
 </table>
 
-<sub>Earlier: <a href="https://github.com/nay-eem-01/Email_Spam_Detection">AI Email Spam Detector</a>, a machine-learning email classifier (<a href="https://email-spam-detection-n801.onrender.com/">live demo</a>).</sub>
-
 ## Stack
 
 <picture>
