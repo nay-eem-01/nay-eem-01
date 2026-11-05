@@ -1,14 +1,21 @@
-# Md. Nayeem Ahmed
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Md. Nayeem Ahmed, Backend Developer, Java and Spring Boot. I build backend systems that stay correct when it matters: payments that are never taken twice, ledgers that always balance, and sessions that really end when you sign out. Junior Backend Developer at Dhrubok Infotech, Dhaka, Bangladesh.">
+</picture>
 
-**Backend Developer, Java and Spring Boot** · Dhaka, Bangladesh
+<p>
+  <a href="https://nayeem-ahmed-portfolio.netlify.app/"><b>Portfolio</b></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/md-nayeem-ahmed/"><b>LinkedIn</b></a> &nbsp;&nbsp;
+  <a href="https://medium.com/@ahmedmdnayeem05"><b>Medium</b></a> &nbsp;&nbsp;
+  <a href="https://nayeem-ahmed-portfolio.netlify.app/Nayeem-Ahmed-Resume.pdf"><b>CV</b></a> &nbsp;&nbsp;
+  <a href="mailto:ahmedmdnayeem05@gmail.com"><b>ahmedmdnayeem05@gmail.com</b></a>
+</p>
 
-I build backend systems that stay correct when it matters: payments that are never taken twice, ledgers that always balance, and sessions that really end when you sign out. At work I build on reactive Spring (WebFlux, Reactor, Neo4j, Kafka); in my own projects I use Spring MVC, JPA and PostgreSQL. I plan each project before I build it, keep database changes in versioned migrations, and write tests alongside the code.
-
-[Portfolio](https://nayeem-ahmed-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/md-nayeem-ahmed/) · [Medium](https://medium.com/@ahmedmdnayeem05) · [Email](mailto:ahmedmdnayeem05@gmail.com)
+I work on both sides of Spring: reactive services on WebFlux, Reactor, Neo4j and Kafka at my job, and Spring MVC, JPA and PostgreSQL in my own projects. I plan each project before I build it, keep database changes in versioned migrations, and write tests alongside the code.
 
 ## Now
 
-**Junior Backend Developer at Dhrubok Infotech Services Limited**, working on TaskATask, a task management platform built with Spring WebFlux and Neo4j:
+**Junior Backend Developer at Dhrubok Infotech Services Limited**, on TaskATask, a task management platform built with Spring WebFlux and Neo4j.
 
 - Real-time group chat on WebFlux Sinks, with messages encrypted at rest using Jasypt
 - Bulk contact import of up to 10,000 records on Redis-backed job queues
@@ -17,27 +24,63 @@ I build backend systems that stay correct when it matters: payments that are nev
 
 ## Projects
 
-Built on my own, from the database to the user interface. Each has a case study on my portfolio.
+Built on my own, from the database to the user interface. Each one has a case study on my portfolio.
 
-| Project | What it is | Built with | Links |
-|---|---|---|---|
-| **AgroTrends** | A knowledge-sharing platform for agriculture whose AI advisor answers from the platform's own articles and cites them | Spring Boot, Spring AI, PostgreSQL + pgvector, React | [Backend](https://github.com/nay-eem-01/AgroTrends) · [Frontend](https://github.com/nay-eem-01/agrotrends_web) · [Case study](https://nayeem-ahmed-portfolio.netlify.app/projects/agrotrends/) |
-| **Senpai Supply** | An online store for anime merchandise in Bangladesh, with cash on delivery, bKash and SSLCommerz behind one payment interface | Spring Boot, PostgreSQL, Flyway, React | [Backend](https://github.com/nay-eem-01/E-commerce-application-with-springboot) · [Frontend](https://github.com/nay-eem-01/ecommerce_web) · [Case study](https://nayeem-ahmed-portfolio.netlify.app/projects/senpai-supply/) |
-| **AveryDay** | A habit tracker for self-learners, installable as a phone app | Spring Boot 4, PostgreSQL, Testcontainers, React | [Live](https://averyday.vercel.app) · [Backend](https://github.com/nay-eem-01/habit-tracker) · [Frontend](https://github.com/nay-eem-01/habit-tracker_web) · [Case study](https://nayeem-ahmed-portfolio.netlify.app/projects/averyday/) |
-| **Courier backend** | Parcel delivery with cash on delivery and merchant payouts | Spring MVC, JPA, PostgreSQL, Flyway | [Case study](https://nayeem-ahmed-portfolio.netlify.app/projects/courier/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/agrotrends/"><img src="assets/agrotrends.jpg" width="100%" alt="The AgroTrends stories page"></a>
+      <h3>AgroTrends</h3>
+      A knowledge-sharing platform for agriculture whose AI advisor answers from the platform's own articles and cites them.<br><br>
+      <sub>Spring Boot · Spring AI · PostgreSQL + pgvector · React</sub><br><br>
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/agrotrends/">Case study</a> &nbsp;
+      <a href="https://github.com/nay-eem-01/AgroTrends">Backend</a> &nbsp;
+      <a href="https://github.com/nay-eem-01/agrotrends_web">Frontend</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/senpai-supply/"><img src="assets/senpai-supply.jpg" width="100%" alt="The Senpai Supply storefront"></a>
+      <h3>Senpai Supply</h3>
+      An online store for anime merchandise in Bangladesh, with cash on delivery, bKash and SSLCommerz behind one payment interface.<br><br>
+      <sub>Spring Boot · PostgreSQL · Flyway · React</sub><br><br>
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/senpai-supply/">Case study</a> &nbsp;
+      <a href="https://github.com/nay-eem-01/E-commerce-application-with-springboot">Backend</a> &nbsp;
+      <a href="https://github.com/nay-eem-01/ecommerce_web">Frontend</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/averyday/"><img src="assets/averyday.jpg" width="100%" alt="The AveryDay dashboard"></a>
+      <h3>AveryDay</h3>
+      A habit tracker for self-learners, installable as a phone app. Streaks are calculated from check-ins every time, so they can never drift.<br><br>
+      <sub>Spring Boot 4 · PostgreSQL · Testcontainers · React</sub><br><br>
+      <a href="https://averyday.vercel.app">Live app</a> &nbsp;
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/averyday/">Case study</a> &nbsp;
+      <a href="https://github.com/nay-eem-01/habit-tracker">Backend</a> &nbsp;
+      <a href="https://github.com/nay-eem-01/habit-tracker_web">Frontend</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/courier/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/courier-dark.svg">
+          <img src="assets/courier-light.svg" width="100%" alt="Courier backend architecture: a rider updates a parcel, which writes its history and publishes a delivered event to the ledger">
+        </picture>
+      </a>
+      <h3>Courier backend</h3>
+      Parcel delivery with cash on delivery and merchant payouts. A status change, its history and its ledger entry are saved in one transaction.<br><br>
+      <sub>Spring MVC · JPA · PostgreSQL · Flyway</sub><br><br>
+      <a href="https://nayeem-ahmed-portfolio.netlify.app/projects/courier/">Case study</a>
+    </td>
+  </tr>
+</table>
 
-Earlier: [AI Email Spam Detector](https://github.com/nay-eem-01/Email_Spam_Detection), a machine-learning email classifier ([live demo](https://email-spam-detection-n801.onrender.com/)).
+<sub>Earlier: <a href="https://github.com/nay-eem-01/Email_Spam_Detection">AI Email Spam Detector</a>, a machine-learning email classifier (<a href="https://email-spam-detection-n801.onrender.com/">live demo</a>).</sub>
 
 ## Stack
 
-| Area | Tools |
-|---|---|
-| Languages | Java, SQL, Cypher, TypeScript, JavaScript, Python, C |
-| Backend | Spring Boot, Spring WebFlux, Project Reactor, Spring MVC, Spring Security, Hibernate, Spring Data Neo4j, Spring AI |
-| Data | PostgreSQL, pgvector, Neo4j, MySQL, Redis, Flyway, Lucene |
-| Messaging | Apache Kafka, RabbitMQ |
-| Testing | JUnit 5, Mockito, Testcontainers, Playwright |
-| Tools | Maven, Docker, AWS (S3, SNS), GitHub Actions, Git, Linux |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Languages: Java, SQL, Cypher, TypeScript, JavaScript, Python, C. Backend: Spring Boot, Spring WebFlux, Project Reactor, Spring MVC, Spring Security, Hibernate, Spring Data Neo4j, Spring AI. Data and messaging: PostgreSQL, pgvector, Neo4j, MySQL, Redis, Apache Kafka, RabbitMQ, Flyway, Lucene. Testing and tools: JUnit 5, Mockito, Testcontainers, Playwright, Maven, Docker, AWS, GitHub Actions, Git, Linux.">
+</picture>
 
 ## Writing
 
